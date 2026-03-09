@@ -55,3 +55,8 @@ Lucas Abreu Godoi
 Software Engineering Student  
 GitHub: https://github.com/lucasagodoi
 LinkedIn: https://linkedin.com/in/lucasgodoi
+## Author
+
+Lucas Abreu Godoi  
+GitHub: https://github.com/lucasagodoi  
+LinkedIn: https://www.linkedin.com/in/lucasgodoi/
